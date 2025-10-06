@@ -1,4 +1,4 @@
-EdgeViewer App
+
 
 Real Time Edge Detection Viewer built with Android, OpenCV (C++), OpenGL ES, and a TypeScript web viewer.
 

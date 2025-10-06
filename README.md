@@ -87,10 +87,4 @@ EdgeViewer/
 
 ---
 
-Submission Checklist
 
-- [x] Android app working with Camera + OpenCV + OpenGL
-- [x] TypeScript web viewer displaying processed frame
-- [x] Proper Git commit history (modular, meaningful commits)
-- [x] Screenshots or GIF in /screenshots
-- [x] README.md fully documented

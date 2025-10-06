@@ -42,15 +42,9 @@ Web Viewer          → Displays static sample frame + stats (TypeScript)
 
 ---
 
-Screenshots / GIF
-
-- Add screenshots of the app in action:
-
 [Camera Feed] screenshots/screenshot1.png
 [Edge Detection] screenshots/screenshot2.png
 [Web Viewer] screenshots/screenshot_web.png
-
-> Replace with your own screenshots or GIF of the working app.
 
 ---
 
